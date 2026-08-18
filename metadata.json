@@ -1,0 +1,6 @@
+{
+  "name": "Noah Hospitality Promo Studio",
+  "description": "1.50 minute solo luxury resort and 5-star hotel promotional video presenter player with Bengali motion graphics and investment showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
